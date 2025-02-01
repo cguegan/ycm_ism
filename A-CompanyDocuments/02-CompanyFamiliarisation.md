@@ -14,7 +14,7 @@ This document is established in order to familiarise new joining Captain and **[
 
 ---
 
-## General policy of the company
+## 02.1. General policy of the company
 
 As explained in the Yacht management System, **[%company]**, the management company request a complete respect of the international laws and conventions like SOLAS, MARPOL, STCW and MLC.
 
@@ -27,8 +27,6 @@ The safe manning and the notion of safe return to port must be kept in mind by a
 The work of the shore base team and the usage of the reg4yachts will insure an appropriate knowledge of the regulation and evolutions. The good relation with the classification society is also a strong point. Preparing the annual surveys, the Company and Captain have to get all relevant information from the class surveyor. Consultancy, audits, survey,... must be considered to update the ship, shore-based team and the seafarers.
 
 Internal audit, review and regular visits of the DPA will also contribute to verify the compliance with the ISM and ISPS code but also to the SMS and the company policy.
-
----
 
 **[%company]** policies includes but is not limited to the following documents and plans:
 
@@ -44,7 +42,7 @@ Internal audit, review and regular visits of the DPA will also contribute to ver
 - SOPEP
 - Cyber Security Plan
 
-## Purchase process
+## 02.2. Purchase process
 
 When contractors are needed or some purchases must be done, the Captain and crew shall ask quotations, generally at least 2 are required. The shipboard team can ask the assistance of the Technical manager and/or DPA and/or assistant management.
 
@@ -63,7 +61,7 @@ In case of emergency, the captain has the possibility to address his request dir
 
 ---
 
-## Maintenance & follow up of the works
+## 02.3. Maintenance & follow up of the works
 
 The purchase/payment process as describe here above shall insure a correct selection of the contractors (by the approval at different stage on board and ashore), the correct financial and technical follow up of the work and purchase needed on board.
 
@@ -81,19 +79,18 @@ The efficiency of the cooperation with the technicians and providers, pricing, r
 
 The Captain and crew have to give their feedback and then this must be discussed with DPA, CEO and technical manager. Then a list of “preferred contractors” should be established within the company.
 
-## Risk assessment
+## 02.4. Risk assessment
 
 As mentioned in the general policy and Ship Management System, risk assessments are a real concern and must be done in an efficient way. A risk assessment form is in used and must be established for the activities detected as “dangerous”. Some activities can be accepted only under certain circumstances and so need a permit to work approved by Captain or Chief Officer or Safety officer (if any).
 
 At least once a year the risk assessment form must be reviewed. The safety committee meetings are also a privileged moment to get feedback from the crew and discuss emergency and operational procedure and so the inherent risk assessment. Specific risks or unassessed situations should be identified thanks to the input of the crew during these meetings. The review of the management company and visits of the DPA and/or technical management should be also considered in the general understanding of the risk assessment policy.
 
----
 
-## Regulations
+## 02.5. Regulations
 
 All departments on board and ashore are concerned by the evolution of the regulation. Therefore, everyone is requested to pay a great care to the issuance of new law, conventions, notices in his specific party. Despite of a general awareness, the Resident Agent is in charge to transfer all new regulation and communication from the Flag authorities. The subscription to Reg4yachts will provide precious information to the shipboard team and finally the DPA and Technical manager shall inform the Captain and crew for every specific change in the regulation concerning the ship.
 
-## Audit, review, reporting: revision of the SMS
+## 02.6. Audit, review, reporting: revision of the SMS
 
 Except the first year (specific process detailed in the audit & review procedure), there is mandatory reviews and audits. Special survey could also take place. It has been developed in the idea of a permanent revision of the SMS. The aim is to improve the quality of the operations in a safe working environment. The revisions are needed but need to be handle carefully. Therefore, the following process shall be followed has explained in the SMS Manual.
 
