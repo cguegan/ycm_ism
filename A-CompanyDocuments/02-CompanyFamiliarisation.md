@@ -28,7 +28,7 @@ The work of the shore base team and the usage of the reg4yachts will insure an a
 
 Internal audit, review and regular visits of the DPA will also contribute to verify the compliance with the ISM and ISPS code but also to the SMS and the company policy.
 
-===
+---
 
 **[%company]** policies includes but is not limited to the following documents and plans:
 
@@ -61,7 +61,7 @@ This system has been established in the idea that the captain, management and ow
 
 In case of emergency, the captain has the possibility to address his request directly to the DPA and/or Technical Manager by email. Then the company will internally organise a quick payment. This can be the case of technical failure, urgent needs of safety equipment, appointment of surveyor, special needs for a charter... but must remain exceptional.
 
-===
+---
 
 ## Maintenance & follow up of the works
 
@@ -87,7 +87,7 @@ As mentioned in the general policy and Ship Management System, risk assessments 
 
 At least once a year the risk assessment form must be reviewed. The safety committee meetings are also a privileged moment to get feedback from the crew and discuss emergency and operational procedure and so the inherent risk assessment. Specific risks or unassessed situations should be identified thanks to the input of the crew during these meetings. The review of the management company and visits of the DPA and/or technical management should be also considered in the general understanding of the risk assessment policy.
 
-===
+---
 
 ## Regulations
 
@@ -103,7 +103,7 @@ The reviewed document must be sent by the DPA and implemented on the on-board do
 
 > The **[%company]** policy is based on the respect of the applicable regulation, the professionalism of everyone in the chain (as every link is important), the respect of the procedures and to always optimise the quality of the communication between all persons involved. This insure a safe navigation, efficient operations and so satisfied guests and happy crew.
 
-===
+---
 
 ## Revision History
 
