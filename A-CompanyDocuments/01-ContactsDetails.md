@@ -9,9 +9,7 @@ LastEdited: January 12, 2025 10:35 PM
 
 ## Company Structure
 
-![Company Structure](./../../assets/images/A01_1-companyStructure-v1.0.png)
-
-A01_1-companyStructure-v1.0.png
+![Company Structure](/assets/images/A01_1-companyStructure-v1.0.png)
 
 ---
 
